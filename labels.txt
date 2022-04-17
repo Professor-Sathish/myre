@@ -1,0 +1,2 @@
+0 Deepfake
+1 Real 
